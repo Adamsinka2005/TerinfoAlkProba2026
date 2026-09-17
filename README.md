@@ -11,3 +11,7 @@ Idei első bemutató repozitóriumom.
 * Water resources management
 * Digital data processing
 * Infokommunikációs rendszerek
+
+## Tantermek
+* 4-es terem
+* Geo gyakorló
