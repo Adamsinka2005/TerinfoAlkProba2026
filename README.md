@@ -7,7 +7,7 @@ Idei első bemutató repozitóriumom.
 * Vizes élőhelyek kezelése
 * Nagyméretarányú térképezés II.
 * Hidrológia és vízgazdálkodás
-* Környezeti modellezés ez a neve?
-* Water resources management  ez a neve?
-* Digital data processing ez a neve?
-* Infokommunikációs rendszerek ez a neve?
+* Környezeti kémia és modellezés
+* Ecological water management
+* Digital data collection and processing 
+* Infokommunikációs rendszerek és környezeti modellezés
