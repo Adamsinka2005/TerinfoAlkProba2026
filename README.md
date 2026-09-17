@@ -15,3 +15,8 @@ Idei első bemutató repozitóriumom.
 ## Tantermek
 * 4-es terem
 * Geo gyakorló
+
+## Kezdések
+1. hétfő 12:00
+2. kedd 09:00
+3. szera 10:00
