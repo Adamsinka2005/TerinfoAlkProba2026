@@ -1,4 +1,4 @@
-# TerinfoAlkProba2026
+# Térinformatikai alkalmazások 2026
 Idei első bemutató repozitóriumom.
 
 ## Idei tanóráim
