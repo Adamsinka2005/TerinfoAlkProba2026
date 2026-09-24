@@ -1,4 +1,4 @@
-# Szerkesztendő Névsor
+# Névsor
 
 Balogh Bence
 
