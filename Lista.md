@@ -38,7 +38,7 @@ Sallay Dávid 6767
 
 Simon Mátyás (Sopron, Szombathely, Pannonhalma)
 
-Sinka Ádám Sótony
+Sinka Ádám Sótony 1
 
 Soponyai Gergő 12345
 
