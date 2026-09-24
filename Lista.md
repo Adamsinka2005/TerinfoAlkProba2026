@@ -52,5 +52,5 @@ Szentirmai Soma
 
 Szépvölgyi Zétény
 
-Zimány Gábor
+Zimány Gábor a. Lajhár
 
