@@ -42,7 +42,7 @@ Sinka Ádám
 
 Soponyai Gergő 12345
 
-Stocker Ádám
+Stocker Ádám Stoki 16
 
 Szabó Máté
 
