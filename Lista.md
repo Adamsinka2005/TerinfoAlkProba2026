@@ -6,7 +6,7 @@ Csobot Nimród
 
 Erdei Dávid
 
-Gál László sajtos McRoyale
+Gál László alma
 
 Henye Zoltán
 
