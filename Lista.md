@@ -40,7 +40,7 @@ Simon Mátyás
 
 Sinka Ádám
 
-Soponyai Gergő
+Soponyai Gergő 12345
 
 Stocker Ádám
 
