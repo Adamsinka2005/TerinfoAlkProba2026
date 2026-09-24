@@ -28,7 +28,7 @@ Könyves Zoltán
 
 Laczkovich Dániel
 
-Lőrincz Tamás
+Lőrincz Tamás  a. Spor(i)tcsoki a. Ketmen Vivat Hálás Massza!
 
 Müller Dániel István Bicske   
 
