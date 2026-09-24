@@ -30,7 +30,7 @@ Laczkovich Dániel
 
 Lőrincz Tamás
 
-Müller Dániel István
+Müller Dániel István  Bicske
 
 Patthy Domonkos
 
