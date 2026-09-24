@@ -1,4 +1,4 @@
-# Szerkesztendő névsor
+# Szerkesztendő Névsor
 
 Balogh Bence
 
@@ -36,7 +36,7 @@ Patthy Domonkos
 
 Sallay Dávid
 
-Simon Mátyás
+Simon Mátyás (Sopron, Szombathely, Pannonhalma)
 
 Sinka Ádám
 
