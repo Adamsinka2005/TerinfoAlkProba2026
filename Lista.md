@@ -38,7 +38,7 @@ Sallay Dávid
 
 Simon Mátyás
 
-Sinka Ádám
+Sinka Ádám Sótony
 
 Soponyai Gergő
 
