@@ -1,4 +1,4 @@
-# Szerkesztendő névsor
+# Névsor
 
 Balogh Bence
 
@@ -36,7 +36,7 @@ Patthy Domonkos
 
 Sallay Dávid 6767
 
-Simon Mátyás
+Simon Mátyás (Sopron, Szombathely, Pannonhalma)
 
 Sinka Ádám
 
