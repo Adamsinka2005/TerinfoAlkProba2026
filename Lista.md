@@ -10,7 +10,7 @@ Gál László alma
 
 Henye Zoltán commit próba
 
-Honti Dominik
+Honti Dominik csütörtök van
 
 Horváth Gergő
 
