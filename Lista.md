@@ -18,7 +18,7 @@ Kalicz Hanga Mária
 
 Kancz Barnabás
 
-Kis Ádám 123
+Kis Ádám 
 
 Kocsis Máté
 
