@@ -48,7 +48,7 @@ Szabó Máté
 
 Szegi Bertalan
 
-Szentirmai Soma
+Szentirmai Soma Pesti bevándorló
 
 Szépvölgyi Zétény
 
