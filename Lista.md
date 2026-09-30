@@ -14,7 +14,7 @@ Honti Dominik csütörtök van
 
 Horváth Gergő
 
-Kalicz Hanga Mária
+Kalicz Hanga Mária almaa
 
 Kancz Barnabás
 
