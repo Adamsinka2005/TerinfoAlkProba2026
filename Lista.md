@@ -2,7 +2,7 @@
 
 Gál László alma
 
-Henye Zoltán commit próba
+Henye Zoltán commit próba sikerült megint
 
 Honti Dominik csütörtök van
 
@@ -16,7 +16,7 @@ Laczkovich Dániel Gyömrő
 
 Lőrincz Tamás  a. Spor(i)tcsoki a. Ketmen Vivat Hálás Massza!
 
-Müller Dániel István Bicske   
+Müller Dániel István Bicske
 
 Sallay Dávid 6767
 
@@ -36,4 +36,5 @@ Szentirmai Soma Pesti bevándorló
 
 Zimány Gábor a. Lajhár
 
-Kalicz Péter Kunhegyes Sikerült.
+Kalicz Péter Kunhegyes
+
