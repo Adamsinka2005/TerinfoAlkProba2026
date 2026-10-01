@@ -18,7 +18,7 @@ Lőrincz Tamás  a. Spor(i)tcsoki a. Ketmen Vivat Hálás Massza!
 
 Müller Dániel István Bicske   
 
-Sallay Dávid 6767
+Sallay Dávid 6767 sikerült
 
 Simon László Richárd
 
