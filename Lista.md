@@ -36,5 +36,4 @@ Szentirmai Soma Pesti bevándorló
 
 Zimány Gábor a. Lajhár
 
-Kalicz Péter Kunhegyes
-
+Kalicz Péter Kunhegyes Sikerült.
