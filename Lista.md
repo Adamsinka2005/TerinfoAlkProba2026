@@ -6,7 +6,7 @@ Henye Zoltán commit próba
 
 Honti Dominik csütörtök van Sikerült.
 
-Kalicz Hanga Mária almaa
+Kalicz Hanga Mária almaa sikerült
 
 Kancz Barnabás
 
