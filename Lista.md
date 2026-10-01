@@ -22,7 +22,7 @@ Sallay Dávid 6767 sikerült
 
 Simon László Richárd
 
-Simon Mátyás (Sopron, Szombathely, Pannonhalma)
+Simon Mátyás (Sopron, Szombathely, Pannonhalma) sikerült
 
 Sinka Ádám Sótony 1 sikerült
 
