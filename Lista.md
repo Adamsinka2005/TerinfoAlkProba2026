@@ -1,6 +1,6 @@
 # Névsor
 
-Gál László alma
+Gál László alma Sikerült.
 
 Henye Zoltán commit próba
 
@@ -16,7 +16,7 @@ Laczkovich Dániel Gyömrő
 
 Lőrincz Tamás  a. Spor(i)tcsoki a. Ketmen Vivat Hálás Massza!
 
-Müller Dániel István Bicske   
+Müller Dániel István Bicske
 
 Sallay Dávid 6767
 
@@ -37,3 +37,4 @@ Szentirmai Soma Pesti bevándorló
 Zimány Gábor a. Lajhár
 
 Kalicz Péter Kunhegyes
+
