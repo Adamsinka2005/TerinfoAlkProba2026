@@ -8,7 +8,7 @@ Honti Dominik csütörtök van Sikerült.
 
 Kalicz Hanga Mária almaa sikerült
 
-Kancz Barnabás
+Kancz Barnabás absolute térinformatika
 
 Kis Ádám 123 Sikerült!
 
