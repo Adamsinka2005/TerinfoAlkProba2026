@@ -16,7 +16,7 @@ Laczkovich Dániel Gyömrő sikerült
 
 Lőrincz Tamás  a. Spor(i)tcsoki a. Ketmen Vivat Hálás Massza!
 
-Müller Dániel István Bicske
+Müller Dániel István Bicske Sikerült 
 
 Sallay Dávid 6767 sikerült
 
