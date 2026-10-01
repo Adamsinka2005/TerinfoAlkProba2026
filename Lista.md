@@ -2,7 +2,7 @@
 
 Gál László alma Sikerült.
 
-Henye Zoltán commit próba
+Henye Zoltán commit próba sikerült megint
 
 Honti Dominik csütörtök van Sikerült.
 
