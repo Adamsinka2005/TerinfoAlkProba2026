@@ -24,7 +24,7 @@ Simon László Richárd
 
 Simon Mátyás (Sopron, Szombathely, Pannonhalma)
 
-Sinka Ádám Sótony 1
+Sinka Ádám Sótony 1 sikerült
 
 Soponyai Gergő 12345
 
