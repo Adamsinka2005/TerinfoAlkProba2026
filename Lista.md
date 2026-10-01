@@ -28,7 +28,7 @@ Sinka Ádám Sótony 1
 
 Soponyai Gergő 12345
 
-Stocker Ádám Stoki 16
+Stocker Ádám Stoki 16 sikerult
 
 Szegi Bertalan
 
