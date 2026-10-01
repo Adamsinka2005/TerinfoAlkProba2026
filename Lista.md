@@ -12,7 +12,7 @@ Kancz Barnabás
 
 Kis Ádám 123
 
-Laczkovich Dániel Gyömrő
+Laczkovich Dániel Gyömrő sikerült
 
 Lőrincz Tamás  a. Spor(i)tcsoki a. Ketmen Vivat Hálás Massza!
 
