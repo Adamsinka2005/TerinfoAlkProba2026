@@ -4,7 +4,7 @@ Gál László alma Sikerült.
 
 Henye Zoltán commit próba
 
-Honti Dominik csütörtök van
+Honti Dominik csütörtök van Sikerült.
 
 Kalicz Hanga Mária almaa
 
@@ -37,3 +37,4 @@ Szentirmai Soma Pesti bevándorló
 Zimány Gábor a. Lajhár
 
 Kalicz Péter Kunhegyes Sikerült!
+
