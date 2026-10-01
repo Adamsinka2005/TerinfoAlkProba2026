@@ -26,7 +26,7 @@ Simon Mátyás (Sopron, Szombathely, Pannonhalma)
 
 Sinka Ádám Sótony 1 sikerült
 
-Soponyai Gergő 12345
+Soponyai Gergő 12345 sikerült
 
 Stocker Ádám Stoki 16
 
