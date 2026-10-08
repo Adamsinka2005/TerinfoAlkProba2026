@@ -34,7 +34,7 @@ Szegi Bertalan
 
 Szentirmai Soma Pesti bevándorló
 
-Zimány Gábor a. Lajhár
+Zimány Gábor a. Lajhár Sikerült!
 
 Kalicz Péter Kunhegyes Sikerült!
 
