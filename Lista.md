@@ -1,32 +1,32 @@
 # Névsor
 
-Gál László alma
+Gál László alma Sikerült.
 
-Henye Zoltán commit próba
+Henye Zoltán commit próba sikerült megint
 
-Honti Dominik csütörtök van
+Honti Dominik csütörtök van Sikerült.
 
-Kalicz Hanga Mária almaa
+Kalicz Hanga Mária almaa sikerült
 
-Kancz Barnabás
+Kancz Barnabás absolute térinformatika
 
-Kis Ádám 123
+Kis Ádám 123 Sikerült!
 
-Laczkovich Dániel Gyömrő
+Laczkovich Dániel Gyömrő sikerült
 
 Lőrincz Tamás  a. Spor(i)tcsoki a. Ketmen Vivat Hálás Massza!
 
-Müller Dániel István Bicske   
+Müller Dániel István Bicske Sikerült 
 
-Sallay Dávid 6767
+Sallay Dávid 6767 sikerült
 
 Simon László Richárd
 
-Simon Mátyás (Sopron, Szombathely, Pannonhalma)
+Simon Mátyás (Sopron, Szombathely, Pannonhalma) sikerült
 
-Sinka Ádám Sótony 1
+Sinka Ádám Sótony 1 sikerült
 
-Soponyai Gergő 12345
+Soponyai Gergő 12345 sikerült
 
 Stocker Ádám Stoki 16 sikerult
 
@@ -36,4 +36,5 @@ Szentirmai Soma Pesti bevándorló
 
 Zimány Gábor a. Lajhár
 
-Kalicz Péter Kunhegyes
+Kalicz Péter Kunhegyes Sikerült!
+
