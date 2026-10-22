@@ -20,3 +20,4 @@ Idei első bemutató repozitóriumom.
 1. hétfő 12:00
 2. kedd 09:00
 3. szera 10:00
+4. csütörtök 09:00
