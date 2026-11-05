@@ -2,17 +2,29 @@
 <html>
 <body>
 
-<h1>My First JavaScript</h1>
+<h1>Az első JavaScriptem</h1>
 
-<p>JavaScript can change the content of an HTML element:</p>
+<p>A JavaScript képes megváltoztatni egy HTML-elem tartalmát:</p>
 
-<button type="button" onclick="myFunction()">Click Me!</button>
+<button type="button" onclick="myFunction()">Kattints rám!</button>
 
-<p id="demo">This is a demonstration.</p>
+<p id="demo">Ezt figyeld!</p>
 
 <script>
-function myFunction() { 
-  document.getElementById("demo").innerHTML = "Hello JavaScript!";
+let kattintas = 0;
+
+function myFunction() {
+    kattintas++;
+
+    if (kattintas == 1) {
+        document.getElementById("demo").innerHTML = "Tényleg rányomtál";
+    } 
+	else if (kattintas == 2) {
+        document.getElementById("demo").innerHTML = "Megint megnyomtad?";
+    }
+	else if (kattintas == 3) {
+        document.getElementById("demo").innerHTML = "Elég lesz!";
+	}
 }
 </script>
 
