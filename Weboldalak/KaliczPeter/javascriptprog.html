@@ -9,7 +9,7 @@
 <h1>JavaScript függvény</h1>
 
 <!-- Bekérő mező a gombbal -->
-<p>Adj meg egy számot (a):</p>
+<p>Add meg a négyzet oldalhosszát (a):</p>
 <input type="number" id="oldal" placeholder="Pl. 5"> <span>m</span>
 <button onclick="szamolas()">Számolás</button>
 
@@ -20,7 +20,8 @@
 <script>
 function szamolas() {
     let a = document.getElementById("oldal").value;
-    document.getElementById("demo").innerHTML = "A szám:" + a;
+    let terulet = a * a;
+    document.getElementById("demo").innerHTML = "A terület:" + terulet + " m<sup>2</sup>";
 }
 
 </script>
