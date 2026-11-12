@@ -8,19 +8,21 @@
 
 <h1>JavaScript függvény</h1>
 
-<p>A function that returns the greeting: "Hello World":</p>
+<!-- Bekérő mező a gombbal -->
+<p>Adj meg egy számot (a):</p>
+<input type="number" id="oldal" placeholder="Pl. 5"> <span>m</span>
+<button onclick="szamolas()">Számolás</button>
 
-
+<!-- Ide írja ki az eredményt -->
 <p id="demo"></p>
 
+<!-- A szkript a függvénnyel -->
 <script>
-function sayHello() {
-  return "Hello World";
+function szamolas() {
+    let a = document.getElementById("oldal").value;
+    document.getElementById("demo").innerHTML = "A szám:" + a;
 }
 
-let greeting = sayHello();
-
-document.getElementById("demo").innerHTML = greeting;
 </script>
 
 </body>
